@@ -1,77 +1,64 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jiaru Zou",
+    "preferred name": "Rubin Zou",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "jiaruz2@illinois.edu"
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
-    }
-  ],
+  "work": [],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "University of Illinois at Urbanna-Champaign",
+      "major": "BS,Computer Engineering",
+      "minor": "Minor: Mathematics, Statistics",
+      "startDate": "2020-08-19",
+      "endDate": "2024-05-14",
       "courses": [
-        "Theory of Relativity"
+        "computer system & programming", "communication networks", "algorithms & models of mputation", "deep learning in Computer Vision", "machine learning application", "mathematical optimization"
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Professional working proficiency"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Snowboarding",
+      "keywords": [
+        "Free Style",
+        "All Mountain",
+        "Burton CustomX FlyingV 2022 Collection"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Hip Hop",
+        "Lil Tjay, Kanye West, Drake, LEW, Lil Uzi Vert"
+      ]
+    },
+    {
+      "name": "Movie",
+      "keywords": [
+        "Wong Kar Wai: Chungking Express",
+        "Martin Charles Scorsese: Taxi Driver",
+        "Andrei Tarkovsky: The Mirror",
+        "Quentin Jerome Tarantino: Reservoir Dogs"
+      ]
+    }
+  ],
   "references": [],
   "projects": []
 }

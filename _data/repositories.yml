@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - MP-killer
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - MP-killer/arXiv-MDTE-key-word-extraction
+  - MP-killer/PTQ4ViT
+  - MP-killer/packet-queueing-and-scheduling-algo
+  - MP-killer/MP-killer.github.io
+  - MP-killer/GreenWahsing-
