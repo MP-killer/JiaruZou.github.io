@@ -1,10 +1,11 @@
 ---
 layout: page
 title:  Mini Bloom
-description: a High Frequency Trading project
+description: A High Frequency Trading topic project
 img: assets/img/proj_1/cover.jpg
 importance: 1
 category: work
+giscus_comments: true
 ---
 
 **Team: Jiaru Zou, Haojiong Zhang, Eric Liro, Naren Alluri**

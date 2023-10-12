@@ -2,8 +2,8 @@ github_users:
   - MP-killer
 
 github_repos:
+  - MP-killer/quantized-VGG16-implementation
   - MP-killer/arXiv-MDTE-key-word-extraction
-  - MP-killer/PTQ4ViT
   - MP-killer/packet-queueing-and-scheduling-algo
+  - MP-killer/ECE385-Digital-System-lab-finalprojects 
   - MP-killer/MP-killer.github.io
-  - MP-killer/GreenWahsing-
