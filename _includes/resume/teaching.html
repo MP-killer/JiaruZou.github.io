@@ -1,0 +1,27 @@
+<div class="list-groups">
+  <div class="col">
+    {% for content in data[1] %}
+    <div class="col-md-6">
+      <div class="list-group">
+        <table class="table-cv list-group-table">
+          <tbody>
+            <tr>
+              <td colspan="2" class="list-group-category">
+                {% if content.icon %}
+                <i class="{{ content.icon }}"></i>
+                {% endif %}
+                {{ content.name }}
+              </td>
+            </tr>
+            {% for item in content.keywords %}
+            <tr>
+              <td class="list-group-name"><b>{{ item }}</b></td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

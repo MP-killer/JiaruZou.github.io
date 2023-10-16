@@ -6,11 +6,16 @@
     "email": "jiaruz2@illinois.edu"
   },
   "work": [],
-  "volunteer": [],
   "education": [
     {
+      "institution": "Zhejiang University",
+      "major": "ZJU-UIUC study abroad program",
+      "startDate": "2020-08-19",
+      "endDate": "2021-05-31"
+    },
+    {
       "institution": "University of Illinois at Urbanna-Champaign",
-      "major": "BS,Computer Engineering",
+      "major": "BS, Computer Engineering",
       "minor": "Minor: Mathematics, Statistics",
       "startDate": "2020-08-19",
       "endDate": "2024-05-14",
@@ -19,34 +24,55 @@
       ]
     }
   ],
+  "teaching": [
+    {
+      "name": "Course Assistant",
+      "keywords": [
+        "ECE/CS 374: Intro to Algs & Models of Comp (Fall 2022, Spring 2023)"
+      ]
+    },
+    {
+      "name": "Grader",
+      "keywords": [
+        "ECE 120: Introduction to Computing (Fall 2021)",
+        "ECE 210: Analog Signal Processing (Spring 2022)",
+        "ECE 310: Digital Signal Processing (Summer 2023)",
+        "ECE 313: Probability with Engineering Applications (Summer 2022, Fall 2022, Spring 2023)"
+      ]
+    }
+  ],
   "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "Chinese",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Professional working proficiency"
-    }
-  ],
   "interests": [
     {
-      "name": "Snowboarding",
+      "name": "Sports",
       "keywords": [
-        "Free Style",
-        "All Mountain",
-        "Burton CustomX FlyingV 2022 Collection"
+        "SNOWBOARD🏂",
+        "Free Style,All Mountain",
+        "Burton CustomX FlyingV 2022",
+        "----------",
+        "SKATEBOARD🛹",
+        "Street,Flip",
+        "Element Nyjah Huston 2022 Collection",
+        "----------",
+        "SURFBOARD🏄",
+        "Shortboard"
       ]
     },
     {
       "name": "Music",
       "keywords": [
-        "Hip Hop",
-        "Lil Tjay, Kanye West, Drake, LEW, Lil Uzi Vert"
+        "Hip Hop", "R&B", "Melodic Rap",
+        "Fav Artists:Lil Tjay, Kanye West, Drake, LEW, Lil Uzi Vert"
+      ]
+    },
+    {
+      "name": "Art",
+      "keywords": [
+        "Painting: Fine Art, Oil Painting", 
+        "Photography: FUJIFILM X-T30"
       ]
     },
     {
@@ -57,6 +83,16 @@
         "Andrei Tarkovsky: The Mirror",
         "Quentin Jerome Tarantino: Reservoir Dogs"
       ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
     }
   ],
   "references": [],
