@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Mini Bloom
-description: A High Frequency Trading topic project
+description: A High Frequency Trading and AI topic project
 img: assets/img/proj_1/cover.jpg
 importance: 1
 category: work

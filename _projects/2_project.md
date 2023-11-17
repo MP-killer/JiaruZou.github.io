@@ -13,5 +13,5 @@ giscus_comments: true
     </div>
 </div>
 <div class="caption">
-    * Will update more details soon.
+    Project Poster.
 </div>
