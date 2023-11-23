@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MP-killer.github.io/sitemap.xml
+Sitemap: https://jiaruzouu.github.io/sitemap.xml
