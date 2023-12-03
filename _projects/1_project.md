@@ -281,7 +281,7 @@ It is of particular interest to compare different cloud platforms between one an
 ###### **2.ml.g4dn.2xlarge:**
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj_1/2xlarge_tensorflow.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj_1/2xlarge_Tensorflow.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -298,7 +298,7 @@ It is of particular interest to compare different cloud platforms between one an
 ###### **3.ml.g4dn.4xlarge:**
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj_1/4xlarge_tensorflow.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj_1/4xlarge_Tensorflow.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -328,7 +328,7 @@ It is of particular interest to compare different cloud platforms between one an
         {% include figure.html path="assets/img/proj_1/1_epoch.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj_1/50_epoch.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj_1/50_epoch.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 #### **Refencences:**
