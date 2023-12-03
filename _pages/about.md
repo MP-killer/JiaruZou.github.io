@@ -21,6 +21,6 @@ social: true  # includes social icons at the bottom of the page
 
 👨🏻‍💻 My professional journey has encompassed diverse experiences from both industry and research. Currently, I am engaged as a research intern advised by [Dr.Mengyu Zhou](http://zmy.io/) at the [Data, Knowledge, and Intelligence (DKI) Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) under [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/). Prior to this, I worked as a software development intern at [IntelliPro](https://www.intelliprogroup.com/), embedded and robotics engineering intern at [Yummy Future](https://www.yummy-future.com/), and product management intern at [Tencent](https://www.tencent.com/en-us/). For a comprehensive overview of my career, please refer to my personal resume [here](/cv/). 
 
-💡 Broadly, my research interest lies in the intersection of reinforcement learning, Natural Language Processing (NLP), and data mining, with a focus on optimizing decision-making algorithms for high-reward recommendations, enhancing language model's reasonning process, and LLM for few/zero shot learning.
+💡 Broadly, my research interest lies in the intersection of machine learning (RL) and Natural Language Processing (NLP), with a focus on optimizing decision-making algorithms for high-reward recommendations, enhancing pre-trained language model's reasonning process, and LLM for few/zero shot learning.
 
 
