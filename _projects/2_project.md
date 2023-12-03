@@ -3,7 +3,7 @@ layout: page
 title: VGG16 Quantization
 description: Appy pruning and quantization on VGG16 model.
 img: assets/img/proj_2/cover.jpg
-importance: 2
+importance: 3
 category: work
 giscus_comments: true
 ---

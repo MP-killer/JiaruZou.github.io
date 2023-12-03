@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PacketEval
-description: A mini project on packet queuing and scheduling.
+description: A project report on packet queuing and scheduling.
 img: assets/img/proj_3/cover.jpg
 redirect: https://drive.google.com/file/d/1xzXe2PNitR3Vcam8kihcUiwIt8bHxydR/view?usp=sharing
 importance: 4

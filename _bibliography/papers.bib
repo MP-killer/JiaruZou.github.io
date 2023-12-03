@@ -9,7 +9,7 @@
   year={2023},
   html ={https://openreview.net/forum?id=Z2L7F0nekb},
   selected = {true},
-  pdf = {publication_meta.pdf},
+  pdf = {metalearning.pdf},
   abstract = {Meta-learning has been proven an effective learning paradigm for training machine learning models with good generalization ability. Apart from the common practice of uniformly sampling the meta-training tasks, existing methods working on task scheduling strategies are all based on pre-defined sampling protocols or the assumed task-model correlations, and greedily make scheduling decisions, which can lead to sub-optimal performance bottlenecks of the meta-model. In this paper, we propose a novel task scheduling framework under Contextual Bandits settings, named BASS, which directly optimizes the task scheduling strategy based on the status of the meta-model. By balancing the exploitation and exploration, our framework can deal with the data scarcity problem at the early stage of meta-training while planning for the upcoming meta-training iterations with the adaptive exploration strategy. Theoretical analysis and extensive experiments are presented to show the effectiveness of our proposed framework.}
 }
 
@@ -20,4 +20,22 @@
   year={2023},
   selected = {true},
   abstract = {Large Language Models (LLMs) have demonstrated impressive abilities of assimilating human knowledge and facilitating natural language interactions. Despite their achievement, LLMs have achieved limited progress in the domain of table reasoning. Such limitation arises as the difficulty of converting tabular information from distinct relational data into natural language that LLMs can process. In addition, common table inputs may contain ambiguous information that requires further interpretation and clarification. As a result, directly reasoning on the raw tables may lead to biases in the LLMs' outputs. In this paper, we propose a novel framework, TAP4LLM, that addresses this gap by performing the following: 1) decomposing the raw table into sub-table with specific rows / columns based on the rules or semantic similarity; 2) augmenting the table information by extracting semantic and statistical metadata from the raw table, and retrieving relevant knowledge from trustworthy knowledge sources (e.g., Wolfram Alpha, Wikipedia). 3) packing the table information with the augmented knowledge into a sequence for LLMs reasoning while balancing the token allocation trade-off. Experiment results illustrate that TAP4LLM not only demonstrates commendable performance across various tabular reasoning tasks, but also serves as a systematic framework. It allows for different components as plug-ins, which enhance LLMs’ understanding and analysis of structured data in diverse decision-making applications.}
+}
+
+@article{anonymous2023PPB,
+  abbr={ArXiv},
+  title={Personalized PageRank Bandits and Applications},
+  author={Ban*, Yikun and Zou*, Jiaru and  Li, Zihao and Fu, Dongqi and Kang,Jian and He,Jingrui},
+  year={2023},
+  selected = {true},
+  }
+
+@poster{2022NCSA,
+  abbr={Illinois Research Fair},
+  title={CNN Model Pruning and Quantization for FPGA},
+  author={Hu*,Chuxuan and Mai*,Hanlin and Zou*,Jiaru and Rejive,Joseph and Eustis,William and Kindratenko, Volodymyr},
+  year={2022},
+  selected = {false},
+  poster = {poster_quantization.pdf},
+  abstract = {In the pursuit of deploying deep learning models on resource-constrained devices, Convolutional Neural Network (CNN) optimization has emerged as a critical area of research. Our study presented a novel approach on the simultaneous application of pruning and quantization techniques to streamline VGG16 for efficient deployment on Field-Programmable Gate Arrays (FPGAs). Through pruning and post training quantization, we were able to achieve the integer-level model performance and reduce the model size by more than 4x. We also evaluated our approach on several image classification tasks. The result showed that the quantized model performed significantly on running time efficiency while maintaining the accuracy of the original model.}
 }
