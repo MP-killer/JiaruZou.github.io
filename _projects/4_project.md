@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ArXiv-MDTE Extraction
+title: ArXiv-MTDE Extraction
 description: An automated parsing system to extract contextual info from ArXiv.
 img: assets/img/proj_4/cover.jpg
 importance: 2
