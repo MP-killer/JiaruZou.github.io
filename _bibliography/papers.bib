@@ -43,22 +43,3 @@
   selected = {true},
   abstract = {Personalized Pagerank (PPR) has shown to be a powerful tool in many applications such as recommender systems and web pagerank. With the evolving World Wide Web, the variants of PPR have been proposed to adapt to the evolution pattern of graph structure, where each change of the graph is initiated by an interaction. Under the literature that most existing works focus on the evolution pattern of graph structure, the goal of this paper is to empower pagerank with more knowledge from sequential interactions or decision-making. In this paper, we proposed the first bandit-based Personalized Pagerank algorithm, enriching the classic PPR with elements such as context, reward, and uncertainty measurement to minimize the cumulative regret in sequential decision-making. We adapt the proposed algorithm to online edge prediction and node classification and show that our hybrid algorithm performs considerably better than the classic PPR algorithm and bandit-based algorithm. Additionally, we conduct the theoretical regret analysis of the new algorithm, establishing that its regret upper bound aligns with the state-of-the-art literature on neural bandits.}
 }
-
-@poster{2022NCSA,
-  abbr={GCOE Research Fair},
-  title={CNN Model Pruning and Quantization for FPGA},
-  author={Hu*,Chuxuan and Mai*,Hanlin and Zou*,Jiaru and Rejive,Joseph and Eustis,William and Kindratenko, Volodymyr},
-  year={2022},
-  selected = {false},
-  poster = {poster_quantization.pdf},
-  abstract = {In the pursuit of deploying deep learning models on resource-constrained devices, Convolutional Neural Network (CNN) optimization has emerged as a critical area of research. Our study presented a novel approach on the simultaneous application of pruning and quantization techniques to streamline VGG16 for efficient deployment on Field-Programmable Gate Arrays (FPGAs). Through pruning and post training quantization, we were able to achieve the integer-level model performance and reduce the model size by more than 4x. We also evaluated our approach on several image classification tasks. The result showed that the quantized model performed significantly on running time efficiency while maintaining the accuracy of the original model.}
-}
-
-@poster{2023MLP,
-  abbr={GCOE Research Fair},
-  title={Mathematical Token Classification},
-  author={Zou*,Jiaru and Wang*, Qing and Kani, Nickvash},
-  year={2023},
-  selected = {false},
-  abstract = {Mathematical token classification is a fundamental task in mathematical information retrieval. In this work, we aim to formulate and address the following classification problem: While knowing what textual definitions best describe a math token, can langugae models learn basic information about the token:1.If it's a variable, constant, or operator. 2.If it's a scalar or matrix 3.If it's a known global-, commonly-used entity or if it is locally-defined. We buit a new dataset, namely MTDE, containing extracted math tokens with corresponding context and attributes based on arXiv corpus and evaluate its effectiveness from several accuracy performance of LLMs and PLMs.}
-}
